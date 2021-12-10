@@ -30,7 +30,7 @@ is, in a nutshell, branding.
 managing the cumulative assets and actions that shape the perception of
 a brand in stakeholders' minds.**
 
-![](.//media/image1.jpg){width="6.5in" height="3.0770833333333334in"}
+![](.//media/image1.jpg)
 
 **Why is branding so important?**
 
@@ -42,8 +42,7 @@ Branding is important because it:
     > serious competition. Branding helps you establish the ways in
     > which you're different, special, and unique. And it shows your
     > customers why they should work with you instead of your
-    > competitors. ![](.//media/image2.png){width="5.110416666666667in"
-    > height="3.0208333333333335in"}
+    > competitors. ![](.//media/image2.png)
 
 > *Branding is about making connections. Illustration
 > by [Ulfvidh](https://99designs.com/profiles/ulfvidh).*
@@ -122,7 +121,7 @@ the tactics that really matter. At the end, marketing is the process
 that brings you the leads and sales, but branding is the foundation upon
 which you build your reputation and customer loyalty. \[3\]
 
-![](.//media/image3.jpg){width="6.5in" height="2.4375in"}
+![](.//media/image3.jpg)
 
 1-https://www.brandingmag.com/2015/10/14/what-is-branding-and-why-is-it-important-for-your-business/
 
