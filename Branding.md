@@ -36,8 +36,8 @@ a brand in stakeholders' minds.**
 
 Branding is important because it:
 
--   **Helps you stand out from the competition.** It doesn't matter what
-    > kind of company you have, what industry you're in, or what type of
+-   **Helps you stand out from the competition.** 
+    > It doesn't matter what kind of company you have, what industry you're in, or what type of
     > customer you're after---if you're in business, you've got some
     > serious competition. Branding helps you establish the ways in
     > which you're different, special, and unique. And it shows your
